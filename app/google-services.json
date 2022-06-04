@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649852411795",
+    "project_id": "myapplication-ee7e2",
+    "storage_bucket": "myapplication-ee7e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649852411795:android:89085fd3abec089a4fd266",
+        "android_client_info": {
+          "package_name": "com.william.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649852411795-sau1qstj3lh4lah85qaiqi1d092h4iqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1N9j7IHHgABbMXCimyInSNhxiPL91ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649852411795-sau1qstj3lh4lah85qaiqi1d092h4iqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
