@@ -71,7 +71,7 @@ public class RegisterActivity extends AppCompatActivity {
 
                                 FirebaseDatabase
                                         .getInstance()
-                                        .getReference("Users")
+                                        .getReference("User")
                                         .child(FirebaseAuth.getInstance().getCurrentUser().getUid())
                                         .setValue(data)
                                         .addOnCompleteListener(new OnCompleteListener<Void>() {
